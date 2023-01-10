@@ -1,7 +1,10 @@
-title: Tactile theme
-description: Tactile is a theme for GitHub Pages.
+title: Alex's portfolio
+description: >-
+    Hi, I'm Alex! I am a Cognitive Science and Computer Science student at the University of Toronto.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.alexszok.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  alexszokolay
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-tactile
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
