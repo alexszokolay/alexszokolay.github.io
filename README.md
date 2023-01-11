@@ -1,1 +1,1 @@
-[Link to site](alexszokolay.github.io)
+[Link to site](https://alexszokolay.github.io/)
