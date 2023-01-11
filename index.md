@@ -1,4 +1,4 @@
-Hi, I'm Alex! I am third year student at the University of Toronto! I'm currently studying Computer Science, Cognitive Science and Psychology.
+Hi, I'm Alex! I am third year student at the University of Toronto. I'm currently studying Computer Science, Cognitive Science and Psychology.
 
 Below are some of the projects I've worked on recently:
 
@@ -14,7 +14,7 @@ ___
 
 ___
 
-**Connect with me more!**
+**Connect with me!**
 
 [LinkedIn](https://www.linkedin.com/in/alex-szokolay/)
 
