@@ -1,6 +1,9 @@
 Hi, I'm Alex! I am third year student at the University of Toronto. I'm currently studying Computer Science, Cognitive Science and Psychology.
 
-Below are some of the projects I've worked on recently:
+As a team player with supervisory experience who can also excel with independent work, I am interested in expanding my skill set and applying knowledge and experience from my program to solve real-world problems in the workforce. 
+
+
+Below are some of the projects I'm working on/have worked on recently:
 
 ___
 
@@ -11,6 +14,18 @@ ___
 [AWS Certified Cloud Practioner](https://aws.amazon.com/certification/certified-cloud-practitioner/): A course teaching a foundational understanding of AWS Cloud concepts, services, and terminology.
 
 [NewtApp](https://newt.social/): A full-stack web app built using React, Java, and Spring. The app is a social media platform where users can have conversations in limited size, user made discussion boards
+
+---
+**Education**
+
+University of Toronto - Bachelor of Science
+September 2020 -  April 2024
+Computer Science, Cognitive Science: Computational Cognition and Psychology
+
+Cardinal Carter Academy for the Arts,  Toronto           	
+Ontario Secondary School Diploma 
+September 2016 - June 2020
+Ontario Scholar, 4-Year Honor Roll
 
 ___
 
