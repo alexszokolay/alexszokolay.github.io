@@ -1,6 +1,5 @@
 title: Alex's portfolio
 description: >-
-    Hi, I'm Alex! I am a Cognitive Science and Computer Science student at the University of Toronto.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.alexszok.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alexszokolay
