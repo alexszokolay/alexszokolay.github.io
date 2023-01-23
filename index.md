@@ -9,7 +9,7 @@ ___
 
 **Projects**
 
-- [Travel Therapy](https://github.com/alexszokolay/Uoft-ECKS): Developed at [UofT Hacks](https://www.uofthacks.com/), Our Discord Travel Therapy Bot aims to help Torontonians in their daily life by recommending different places around the city based on their current mental state. Our app strives to counter negative emotions by recommending tailored destinations for people to explore that can help people feel better.Our
+- [Travel Therapy](https://github.com/alexszokolay/Uoft-ECKS): Developed at [UofT Hacks](https://www.uofthacks.com/), Our Discord Travel Therapy Bot aims to help Torontonians in their daily life by recommending different places around the city based on their current mental state. Our app strives to counter negative emotions by recommending tailored destinations for people to explore that can help people feel better.
 
 - [AWS Certified Cloud Practioner](https://aws.amazon.com/certification/certified-cloud-practitioner/): A course teaching a foundational understanding of AWS Cloud concepts, services, and terminology.
 
