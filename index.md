@@ -24,7 +24,7 @@ ___
 September 2020 -  April 2024\
 Computer Science, Cognitive Science: Computational Cognition and Psychology
 
-**Cardinal Carter Academy for the Arts, Toronto**\           	
+**Cardinal Carter Academy for the Arts, Toronto**\
 Ontario Secondary School Diploma\
 September 2016 - June 2022\
 Ontario Scholar, 4-Year Honor Roll
