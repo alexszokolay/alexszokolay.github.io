@@ -1,5 +1,7 @@
 Hi, I'm Alex! I am third year student at the University of Toronto. I'm currently studying Computer Science, Cognitive Science and Psychology.
 
+I am a highly motivated individual with a passion for technology, and 4+ years of experience in programming languages such as Python and Java, and a deep understanding of web development technologies such as HTML, CSS, Spring, Postgres, and React.
+
 As a team player with supervisory experience who can also excel with independent work, I am interested in expanding my skill set and applying knowledge and experience from my program to solve real-world problems in the workforce. 
 
 
@@ -8,6 +10,8 @@ Below are some of the projects I'm working on/have worked on recently:
 ___
 
 **Projects**
+
+- [Checkers-AlphaBeta Search](https://github.com/alexszokolay/Checkers-AlphaBetaSearch): An implementation of AlphaBeta Search to solve Checkers endgame puzzles.
 
 - [Hua-Rong-Dao-Search](https://github.com/alexszokolay/Hua-Rong-Dao-Search): An implementation of Depth-First Search and A* Search to solve the Hua Rong Dao sliding puzzle.
 
