@@ -1,10 +1,12 @@
-title: Alex's portfolio
-description: >-
+title: Alex's Portfolio
+logo: /assets/img/logo.png
+description: Hi, I’m Alex! I am third year student at the University of Toronto. I’m currently studying Computer Science, Cognitive Science and Psychology.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.alexszok.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  alexszokolay
-show_downloads: true
-theme: jekyll-theme-tactile
-remote_theme: pages-themes/tactile@v0.2.0
+url: "https://www.alexszokolay.com" # the base hostname & protocol for your site, e.g. http://example.com
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one

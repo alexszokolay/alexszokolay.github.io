@@ -40,3 +40,4 @@ ___
 [LinkedIn](https://www.linkedin.com/in/alex-szokolay/)
 
 [GitHub](https://github.com/alexszokolay)
+
