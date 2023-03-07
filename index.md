@@ -1,123 +1,43 @@
+Hi, I'm Alex! I am third year student at the University of Toronto. I'm currently studying Computer Science, Cognitive Science and Psychology.
+
+I am a highly motivated individual with a passion for technology, and 4+ years of experience in programming languages such as Python and Java, and a deep understanding of web development technologies such as HTML, CSS, Spring, Postgres, and React.
+
+As a team player with supervisory experience who can also excel with independent work, I am interested in expanding my skill set and applying knowledge and experience from my program to solve real-world problems in the workforce. 
+
+
+Below are some of the projects I'm working on/have worked on recently:
+
+___
+
+**Projects**
+
+- [Checkers-AlphaBeta Search](https://github.com/alexszokolay/Checkers-AlphaBetaSearch): An implementation of AlphaBeta Search to solve Checkers endgame puzzles.
+
+- [Hua-Rong-Dao-Search](https://github.com/alexszokolay/Hua-Rong-Dao-Search): An implementation of Depth-First Search and A* Search to solve the Hua Rong Dao sliding puzzle.
+
+- [Travel Therapy](https://github.com/alexszokolay/Uoft-ECKS): Developed at [UofT Hacks](https://www.uofthacks.com/), Our Discord Travel Therapy Bot aims to help Torontonians in their daily life by recommending different places around the city based on their current mental state. Our app strives to counter negative emotions by recommending tailored destinations for people to explore that can help people feel better.
+
+- [AWS Certified Cloud Practioner](https://aws.amazon.com/certification/certified-cloud-practitioner/): A course teaching a foundational understanding of AWS Cloud concepts, services, and terminology.
+
+- [NewtApp](https://newt.social/): A full-stack web app built using React, Java, and Spring. The app is a social media platform where users can have conversations in limited size, user made discussion boards
+
 ---
-layout: default
----
+**Education**
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**University of Toronto - Bachelor of Science**\
+September 2020 -  April 2024\
+Computer Science, Cognitive Science: Computational Cognition and Psychology
 
-[Link to another page](./another-page.html).
+**Cardinal Carter Academy for the Arts, Toronto**\
+Ontario Secondary School Diploma\
+September 2016 - June 2022\
+Ontario Scholar, 4-Year Honor Roll
 
-There should be whitespace between paragraphs.
+___
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**Connect with me!**
 
-# Header 1
+[LinkedIn](https://www.linkedin.com/in/alex-szokolay/)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[GitHub](https://github.com/alexszokolay)
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
