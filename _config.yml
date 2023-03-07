@@ -1,6 +1,6 @@
 title: Alex's Portfolio
 logo: /assets/img/logo.png
-description: Hi, I’m Alex! I am third year student at the University of Toronto. I’m currently studying Computer Science, Cognitive Science and Psychology.
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.alexszokolay.com" # the base hostname & protocol for your site, e.g. http://example.com
 show_downloads: false
