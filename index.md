@@ -28,9 +28,9 @@ ___
 **Projects**
 
 - HMM Part-of-Speech Tagger: A Python implementation of Part-Of-Speech (POS) tagging
-Calculated initial, transition and observation probabilities from text-tag pairs in training files. Used an HMM model to calculate tag probabilities for words.
-Optimized word tagging of unseen words in training files by 15%
-Achieved 90% POS word-tagging accuracy on both tagged and untagged text
+  - Calculated initial, transition and observation probabilities from text-tag pairs in training files. Used an HMM model to calculate tag probabilities for words.
+  - Optimized word tagging of unseen words in training files by 15%
+  - Achieved 90% POS word-tagging accuracy on both tagged and untagged text
 
 
 - [Checkers-AlphaBeta Search](https://github.com/alexszokolay/Checkers-AlphaBetaSearch): A Python implementation of Checkers and AlphaBeta Search to solve Checkers endgame puzzles.
