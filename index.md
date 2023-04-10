@@ -21,8 +21,6 @@ Ontario Secondary School Diploma\
 September 2016 - June 2022\
 Ontario Scholar, 4-Year Honor Roll
 
-Below are some of the projects I'm working on/have worked on recently:
-
 ___
 
 **Projects**
